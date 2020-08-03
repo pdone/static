@@ -1,4 +1,11 @@
 Pdone's Static Resources
 
-# Thanks
+## Usage
+
+	https://cdn.jsdelivr.net/gh/pdone/static/*.*
+
+## Thanks
+[Github](https://github.com/)
+
 [jsDelivr](https://www.jsdelivr.com/)
+
