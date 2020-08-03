@@ -1,2 +1,4 @@
-# static
-自用静态资源
+Pdone's Static Resources
+
+# Thanks
+[jsDelivr](https://www.jsdelivr.com/)
