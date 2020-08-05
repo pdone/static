@@ -27,5 +27,5 @@ ul.list-v >li.header >img
 }
 video
 {
-	max-height: 580px;
+	max-height: 580px!important;
 }
