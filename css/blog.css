@@ -25,3 +25,7 @@ ul.list-v >li.header >img
     word-break: break-all;
     display: none;
 }
+video
+{
+	max-height: 580px;
+}
