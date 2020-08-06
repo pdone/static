@@ -27,8 +27,3 @@ ul.list-v>li.header>img {
 video {
     max-height: 580px!important;
 }
-/* 毛玻璃 */
-.blur {
-    background: rgba(68, 68, 68, 0.7) !important;
-    backdrop-filter: saturate(200%) blur(20px);
-}
