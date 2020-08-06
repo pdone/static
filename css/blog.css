@@ -25,7 +25,12 @@ ul.list-v >li.header >img
     word-break: break-all;
     display: none;
 }
+/* 限制视频最大高度 */
 video
 {
 	max-height: 580px!important;
+}
+.blur {
+    background: rgba(68,68,68,0.7) !important;
+    backdrop-filter: saturate(200%) blur(20px);
 }
