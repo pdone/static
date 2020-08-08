@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*
+/*
  Highmaps JS v7.0.1 (2018-12-19)
 
  (c) 2011-2018 Torstein Honsi

@@ -1,5 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>/*
- Highcharts JS v7.0.1 (2018-12-19)
+/* Highcharts JS v7.0.1 (2018-12-19)
  Highcharts Drilldown module
 
  Author: Torstein Honsi

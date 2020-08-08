@@ -1,4 +1,4 @@
-<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>    var pdone = {
+var pdone = {
         china: {
             heilongjiang: {
                 name: "\u9ed1\u9f99\u6c5f",
