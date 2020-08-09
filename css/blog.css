@@ -27,9 +27,10 @@ ul.list-v>li.header>img {
 video {
     max-height: 580px!important;
 }
+/* 顶部导航条 */
 .l_header {
-    max-width: unset;
-    left: unset;
-    border-bottom-left-radius: unset;
-    border-bottom-right-radius: unset;
+    max-width: unset!important;
+    left: unset!important;
+    border-bottom-left-radius: unset!important;
+    border-bottom-right-radius: unset!important;
 }
