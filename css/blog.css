@@ -28,12 +28,12 @@ video {
     max-height: 580px!important;
 }
 /* 顶部导航条 */
-.l_header {
+/* .l_header {
     max-width: unset!important;
     left: unset!important;
     border-bottom-left-radius: unset!important;
     border-bottom-right-radius: unset!important;
-}
+} */
 /* 浮动阴影 */
 .shadow.floatable:hover {
     box-shadow: 0px 2px 6px 1px rgba(0,0,0,0.1), 0 4px 10px 1px rgba(0,0,0,0.1), 0 8px 18px 1px rgba(0,0,0,0.1)!important;
