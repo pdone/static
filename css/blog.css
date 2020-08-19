@@ -35,6 +35,6 @@ video {
     border-bottom-right-radius: unset!important;
 } */
 /* 浮动阴影 */
-.shadow.floatable:hover {
+/* .shadow.floatable:hover {
     box-shadow: 0px 2px 6px 1px rgba(0,0,0,0.1), 0 4px 10px 1px rgba(0,0,0,0.1), 0 8px 18px 1px rgba(0,0,0,0.1)!important;
-}
+} */
