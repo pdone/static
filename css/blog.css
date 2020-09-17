@@ -30,7 +30,7 @@ video {
 
 body {
     background: #E9E9E9 url(https://cdn.jsdelivr.net/gh/pdone/static@master/img/bg.jpg);
-    animation: flow 16s linear infinite;
+    /* animation: flow 16s linear infinite; */
     top: 0;
     left: 0;
     right: 0;
