@@ -27,6 +27,17 @@ ul.list-v>li.header>img {
 video {
     max-height: 580px!important;
 }
+
+body {
+    background: #E9E9E9 url(https://cdn.jsdelivr.net/gh/pdone/static@master/img/bg.jpg);
+    animation: flow 16s linear infinite;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+}
+
 /* 顶部导航条 */
 /* .l_header {
     max-width: unset!important;
