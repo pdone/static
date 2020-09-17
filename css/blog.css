@@ -49,3 +49,24 @@ body {
 /* .shadow.floatable:hover {
     box-shadow: 0px 2px 6px 1px rgba(0,0,0,0.1), 0 4px 10px 1px rgba(0,0,0,0.1), 0 8px 18px 1px rgba(0,0,0,0.1)!important;
 } */
+
+/* 动画 */
+@-webkit-keyframes flow {
+	0% {
+		background-position: 50% 0
+	}
+
+	100% {
+		background-position: 50% -250px
+	}
+}
+
+@keyframes flow {
+	0% {
+		background-position: 50% 0
+	}
+
+	100% {
+		background-position: 50% -250px
+	}
+}
