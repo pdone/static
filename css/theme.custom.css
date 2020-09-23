@@ -74,7 +74,7 @@ body {
 
 .pd_content {
     position: absolute;
-    width: 100%;
+    width: 90%;
     top: 10%;
     cursor: pointer;
     user-select: none;
