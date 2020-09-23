@@ -24,11 +24,11 @@ function dontTouchMe() {
   touchMeTimes++;
   console.log("%c " + touchMeMsg, "color: #fadfa3; background: #030307; padding:5px 0;font-family: 微软雅黑;")
 }
-var pd_spans = document.getElementsByName('pd_title')
 (function ($) {
-  for (var i = 0; i < spans.length; i++) {
+  var pd_spans = $("span[name='pd_title']")
+  for (var i = 0; i < pd_spans.length; i++) {
     setTimeout(function () {
-      pd_spans[i].classList += ' animate-in'
+      $(pd_spans[i]).addClass('animate-in')
     }, 120 * i)
   }
 })(jQuery);
