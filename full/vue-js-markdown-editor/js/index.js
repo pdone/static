@@ -4,28 +4,28 @@
 var app = new Vue({
   el: '#app-wall',
   data: {
-    appTitle: 'VueDown Editor',
+    appTitle: 'Markdown编辑器',
     code: '# Hello World!',
-    isSeen: true,
+    isSeen: false,
     isSettings: false,
-    isFull: true,
+    isFull: false,
     isUpdating: false,
     actualSkin: {
-      color: '#0cc',
-      background: 'rgba(0, 204, 204, .4)',
-      wall: 'rgba(0, 204, 204, .15)'
+      color: '#ecf0f1',
+      background: 'rgba(211, 211, 211, .4)',
+      wall: 'rgba(211, 211, 211, .4)'
     },
     skins: [
       {
-        color: '#0cc', 
-        background: 'rgba(0, 204, 204, .4)',
-        wall: 'rgba(0, 204, 204, .15',
+        color: '#ecf0f1', 
+        background: 'rgba(211, 211, 211, .4)',
+        wall: 'rgba(211, 211, 211, .4)',
         isActive: true
       },
       {
         color: '#0c0', 
         background: 'rgba(0, 204, 0, .4)',
-        wall: 'rgba(0, 204, 0, .15',
+        wall: 'rgba(0, 204, 0, .15)',
         isActive: false
       },
       {
