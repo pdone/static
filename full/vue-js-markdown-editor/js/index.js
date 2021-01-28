@@ -12,14 +12,14 @@ var app = new Vue({
     isUpdating: false,
     actualSkin: {
       color: '#ecf0f1',
-      background: 'rgba(211, 211, 211, .4)',
-      wall: 'rgba(211, 211, 211, .4)'
+      background: 'rgba(211, 211, 211, 1)',
+      wall: 'rgba(211, 211, 211, 0)'
     },
     skins: [
       {
         color: '#ecf0f1', 
-        background: 'rgba(211, 211, 211, .4)',
-        wall: 'rgba(211, 211, 211, .4)',
+        background: 'rgba(211, 211, 211, 1)',
+        wall: 'rgba(211, 211, 211, 0)',
         isActive: true
       },
       {
