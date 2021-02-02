@@ -4794,9 +4794,15 @@ div.gallery.stretch>p img {
   font-family: Menlo, UbuntuMono, Monaco, monospace, courier, sans-serif;
 }
 .article code:not([class]) {
-  font-size: 0.8125rem;
+  font-size: .89rem;
   color: #d56d28;
-  border-radius: 2px;
+  border-radius: 4px;
+  border: 1px solid #d2d2d2;
+  border-bottom-width: 2px;
+  background: #F0F0F0;
+  margin: 0 3px;
+  padding: 0 3px;
+  font-family: 'Varela Round';
 }
 @media screen and (max-width: 500px) {
   .article ul,
