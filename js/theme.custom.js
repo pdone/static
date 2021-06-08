@@ -31,7 +31,7 @@ function dontTouchMe() {
       $(pd_spans[idx]).addClass("animate-in")
     }, 120 * idx)
   });
-  document.body.style.height = "auto";
-
 })(jQuery);
+document.body.style.height = "auto";
+
 
