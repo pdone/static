@@ -24,14 +24,15 @@ function dontTouchMe() {
   touchMeTimes++;
   console.log("%c " + touchMeMsg, "color: #fadfa3; background: #030307; padding:5px 0;font-family: 微软雅黑;")
 }
-(function ($) {
+
+$(function () {
   var pd_spans = $("span[name='pd_title']")
   pd_spans.each(idx => {
     setTimeout(function () {
       $(pd_spans[idx]).addClass("animate-in")
     }, 120 * idx)
   });
-})(jQuery);
-document.body.style.height = "auto";
+  document.body.style.height = "auto";
+});
 
 
