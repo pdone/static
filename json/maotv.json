@@ -6,7 +6,7 @@
         "type": 3,
         "api": "csp_Enlienli",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -15,7 +15,7 @@
         "type": 3,
         "api": "csp_Aidi",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -24,7 +24,7 @@
         "type": 3,
         "api": "csp_Auete",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -33,7 +33,7 @@
         "type": 3,
         "api": "csp_Cokemv",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -41,8 +41,8 @@
         "name": "真不卡(爬虫)",
         "type": 3,
         "api": "csp_Buka",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -51,7 +51,7 @@
         "type": 3,
         "api": "csp_Ysgc",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -60,7 +60,7 @@
         "type": 3,
         "api": "csp_N0ys",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -69,7 +69,7 @@
         "type": 3,
         "api": "csp_Nekk",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -78,7 +78,7 @@
         "type": 3,
         "api": "csp_EPangApp",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -122,8 +122,8 @@
         "name": "极品资源",
         "type": 0,
         "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -131,8 +131,8 @@
         "name": "快播云",
         "type": 0,
         "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -140,8 +140,8 @@
         "name": "柚子资源",
         "type": 0,
         "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -149,8 +149,8 @@
         "name": "乐多采集",
         "type": 0,
         "api": "https://cj.leduocaiji.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -158,8 +158,8 @@
         "name": "安逸影院",
         "type": 0,
         "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -167,8 +167,8 @@
         "name": "2A资源站",
         "type": 1,
         "api": "http://zy.zcocc.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -176,8 +176,8 @@
         "name": "蘑菇资源",
         "type": 0,
         "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -185,8 +185,8 @@
         "name": "88资源",
         "type": 0,
         "api": "http://www.88zyw.net/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -194,8 +194,8 @@
         "name": "39影视",
         "type": 0,
         "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -203,8 +203,8 @@
         "name": "追剧吧",
         "type": 0,
         "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -213,7 +213,7 @@
         "type": 3,
         "api": "csp_EPang",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -222,7 +222,7 @@
         "type": 0,
         "api": "https://www.hongniuzy.com/inc/hnm3u8.php",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -230,8 +230,8 @@
         "name": "人人迷",
         "type": 1,
         "api": "https://kuu.renrenmi.cc/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -239,8 +239,8 @@
         "name": "喵派对蓝光",
         "type": 0,
         "api": "https://www.neenl.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -275,8 +275,8 @@
         "name": "人人影视",
         "type": 0,
         "api": "https://kuu.renrenmi.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -284,8 +284,8 @@
         "name": "麻花影视（爬虫）",
         "type": 1,
         "api": "https://www.77diany.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -294,7 +294,7 @@
         "type": 3,
         "api": "csp_Djx",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -303,7 +303,7 @@
         "type": 3,
         "api": "csp_Imaple",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -320,8 +320,8 @@
         "name": "4K影院",
         "type": 0,
         "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -402,7 +402,7 @@
         "type": 3,
         "api": "csp_Nfx",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -437,8 +437,8 @@
         "name": "青莲资源",
         "type": 0,
         "api": "https://www.qinglyy.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -446,8 +446,8 @@
         "name": "酷点资源",
         "type": 1,
         "api": "https://kudian8.com/api.php/provide/vod?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -455,8 +455,8 @@
         "name": "黄河影视",
         "type": 0,
         "api": "http://i.ledu8.cn/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -464,8 +464,8 @@
         "name": "每天看看",
         "type": 0,
         "api": "http://www.meitiankankan.cn:1234/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -473,8 +473,8 @@
         "name": "爱美剧",
         "type": 0,
         "api": "https://www.meijuxq.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -482,8 +482,8 @@
         "name": "美剧星球",
         "type": 0,
         "api": "https://www.meijuxq.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -491,8 +491,8 @@
         "name": "九九美剧",
         "type": 0,
         "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -500,8 +500,8 @@
         "name": "美剧天堂(爬虫)",
         "type": 1,
         "api": "https://www.meijuday.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -509,8 +509,8 @@
         "name": "VIP影视",
         "type": 0,
         "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -518,8 +518,8 @@
         "name": "多米影视",
         "type": 0,
         "api": "http://hdmys1.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -527,8 +527,8 @@
         "name": "牛资源",
         "type": 0,
         "api": "https://www.hongniuzy1.com/inc/seacms.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -545,8 +545,8 @@
         "name": "小草影视(爬虫)",
         "type": 1,
         "api": "http://feng.ueuo.com/php/348z.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -555,7 +555,7 @@
         "type": 1,
         "api": "http://cj.huimaojia.com:12345/api.php/provide/vod/?ac=list",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -564,7 +564,7 @@
         "type": 0,
         "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -572,8 +572,8 @@
         "name": "悠久影院（爬虫）",
         "type": 1,
         "api": "http://www.tvyb02.com/api.php/provide/vod",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -581,8 +581,8 @@
         "name": "玉米影视（爬虫）",
         "type": 0,
         "api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -590,8 +590,8 @@
         "name": "嘟嘟影视（爬虫）",
         "type": 0,
         "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -599,8 +599,8 @@
         "name": "楺子影视（爬虫）",
         "type": 0,
         "api": "https://www.lehootv.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -608,8 +608,8 @@
         "name": "光影影视（爬虫）",
         "type": 0,
         "api": "http://c.bukai.men/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -617,8 +617,8 @@
         "name": "香菇影视（爬虫）",
         "type": 1,
         "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -626,8 +626,8 @@
         "name": "小小影视（爬虫）",
         "type": 0,
         "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -635,8 +635,8 @@
         "name": "袋熊影视（爬虫）",
         "type": 0,
         "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -644,8 +644,8 @@
         "name": "左手影视（爬虫）",
         "type": 1,
         "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -653,8 +653,8 @@
         "name": "醉月影视（爬虫）",
         "type": 1,
         "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -662,8 +662,8 @@
         "name": "月光影视（爬虫）",
         "type": 0,
         "api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -671,8 +671,8 @@
         "name": "新奇遇影视（爬虫）",
         "type": 1,
         "api": "https://www.neenl.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -680,8 +680,8 @@
         "name": "火鸟影视（爬虫）",
         "type": 0,
         "api": "http://zy.itono.cn/inc/qq.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -689,8 +689,8 @@
         "name": "天空影视（爬虫）",
         "type": 0,
         "api": "https://caiji.tiankongapi.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -698,8 +698,8 @@
         "name": "挖挖影视（爬虫）",
         "type": 0,
         "api": "https://v8.bdxzyapi.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -707,8 +707,8 @@
         "name": "飘花影视（爬虫）",
         "type": 0,
         "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -716,8 +716,8 @@
         "name": "融兴影视（爬虫）",
         "type": 0,
         "api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -725,8 +725,8 @@
         "name": "奈斯(爬虫)",
         "type": 0,
         "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -734,8 +734,8 @@
         "name": "大海(爬虫)",
         "type": 0,
         "api": "https://www.39kan.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -743,8 +743,8 @@
         "name": "我爱跟剧（爬虫）",
         "type": 1,
         "api": "http://www.52gen.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -752,8 +752,8 @@
         "name": "清莲影院（爬虫）",
         "type": 1,
         "api": "https://www.qinglyy.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -761,8 +761,8 @@
         "name": "麻腾TV（爬虫）",
         "type": 1,
         "api": "http://www.matengtv.top/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -770,8 +770,8 @@
         "name": "蓝猫影视（爬虫）",
         "type": 1,
         "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -779,8 +779,8 @@
         "name": "热映网（爬虫）",
         "type": 1,
         "api": "http://hl.reying.vip/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -788,8 +788,8 @@
         "name": "蜗牛看鸭（爬虫）",
         "type": 1,
         "api": "http://snailkya.xyz/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -797,8 +797,8 @@
         "name": "无尽资源（爬虫）",
         "type": 0,
         "api": "https://wuzy9.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -807,7 +807,7 @@
         "type": 1,
         "api": "http://www.sp.ooo/api.php/provide/vod/?ac=list",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -815,8 +815,8 @@
         "name": "番茄资源",
         "type": 0,
         "api": "http://api.fqzy.cc/api.php/provide/vod/at/xml/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -824,8 +824,8 @@
         "name": "饭团影院（爬虫）",
         "type": 0,
         "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -834,7 +834,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -843,7 +843,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -852,7 +852,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -861,7 +861,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -870,7 +870,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -879,7 +879,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -888,7 +888,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -897,7 +897,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -906,7 +906,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -915,7 +915,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -924,7 +924,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -933,7 +933,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -942,7 +942,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -951,7 +951,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -960,7 +960,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -969,7 +969,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -978,7 +978,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -987,7 +987,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -996,7 +996,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1005,7 +1005,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1014,7 +1014,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1023,7 +1023,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1032,7 +1032,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1041,7 +1041,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1050,7 +1050,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1059,7 +1059,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1068,7 +1068,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1077,7 +1077,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1086,7 +1086,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1095,7 +1095,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1104,7 +1104,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1113,7 +1113,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1122,7 +1122,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1131,7 +1131,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1140,7 +1140,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1149,7 +1149,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1158,7 +1158,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1167,7 +1167,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1176,7 +1176,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1185,7 +1185,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1194,7 +1194,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1203,7 +1203,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1212,7 +1212,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1221,7 +1221,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1230,7 +1230,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1239,7 +1239,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1248,7 +1248,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1257,7 +1257,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1266,7 +1266,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1275,7 +1275,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1284,7 +1284,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1293,7 +1293,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1302,7 +1302,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1311,7 +1311,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1320,7 +1320,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1329,7 +1329,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1338,7 +1338,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1347,7 +1347,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1356,7 +1356,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1365,7 +1365,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1374,7 +1374,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1383,7 +1383,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1392,7 +1392,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1401,7 +1401,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1410,7 +1410,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1419,7 +1419,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1428,7 +1428,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1437,7 +1437,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1446,7 +1446,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1455,7 +1455,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1464,7 +1464,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1473,7 +1473,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1482,7 +1482,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1491,7 +1491,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1500,7 +1500,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1509,7 +1509,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1518,7 +1518,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1527,7 +1527,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1536,7 +1536,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1545,7 +1545,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1554,7 +1554,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1563,7 +1563,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1572,7 +1572,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1581,7 +1581,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1590,7 +1590,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1599,7 +1599,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1608,7 +1608,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1617,7 +1617,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1626,7 +1626,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1635,7 +1635,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1644,7 +1644,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1653,7 +1653,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1662,7 +1662,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1671,7 +1671,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1680,7 +1680,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1689,7 +1689,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1698,7 +1698,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1707,7 +1707,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1716,7 +1716,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1725,7 +1725,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1734,7 +1734,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1743,7 +1743,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1752,7 +1752,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1761,7 +1761,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1770,7 +1770,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1779,7 +1779,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1788,7 +1788,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1797,7 +1797,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1806,7 +1806,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1815,7 +1815,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1824,7 +1824,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1833,7 +1833,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1842,7 +1842,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1851,7 +1851,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1860,7 +1860,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1869,7 +1869,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1878,7 +1878,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1887,7 +1887,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1896,7 +1896,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1905,7 +1905,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1914,7 +1914,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1923,7 +1923,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1932,7 +1932,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1941,7 +1941,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1950,7 +1950,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1959,7 +1959,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1968,7 +1968,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1977,7 +1977,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1986,7 +1986,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -1995,7 +1995,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2004,7 +2004,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2013,7 +2013,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2022,7 +2022,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2031,7 +2031,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2040,7 +2040,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2049,7 +2049,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2058,7 +2058,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2067,7 +2067,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2076,7 +2076,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2085,7 +2085,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2094,7 +2094,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2103,7 +2103,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2112,7 +2112,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2121,7 +2121,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2130,7 +2130,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2139,7 +2139,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2148,7 +2148,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2157,7 +2157,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2166,7 +2166,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2175,7 +2175,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2184,7 +2184,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2193,7 +2193,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2202,7 +2202,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2211,7 +2211,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2220,7 +2220,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2229,7 +2229,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2238,7 +2238,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2247,7 +2247,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2256,7 +2256,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2265,7 +2265,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2274,7 +2274,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2283,7 +2283,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2292,7 +2292,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2301,7 +2301,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2310,7 +2310,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2319,7 +2319,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2328,7 +2328,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2337,7 +2337,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2346,7 +2346,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2355,7 +2355,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2364,7 +2364,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2372,8 +2372,8 @@
         "name": "速影",
         "type": 0,
         "api": "https://速影128.xyz/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2382,7 +2382,7 @@
         "type": 1,
         "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2390,8 +2390,8 @@
         "name": "萌果资源",
         "type": 0,
         "api": "http://api.appearoo.top/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2399,8 +2399,8 @@
         "name": "北斗星资源",
         "type": 0,
         "api": "https://v8.bdxzyapi.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2408,8 +2408,8 @@
         "name": "ZY资源",
         "type": 0,
         "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2417,8 +2417,8 @@
         "name": "明日资源",
         "type": 0,
         "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2426,8 +2426,8 @@
         "name": "天空资源",
         "type": 0,
         "api": "https://caiji.tiankongapi.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2435,8 +2435,8 @@
         "name": "星辰资源",
         "type": 0,
         "api": "http://www.kuaibocaiji.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2480,8 +2480,8 @@
         "name": "神马影院_M",
         "type": 0,
         "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2489,8 +2489,8 @@
         "name": "看看屋",
         "type": 0,
         "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2498,8 +2498,8 @@
         "name": "追剧吧APP",
         "type": 1,
         "api": "http://data.zju8.cc:1234/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2507,8 +2507,8 @@
         "name": "爱看啦",
         "type": 1,
         "api": "http://v.aik.la/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2516,8 +2516,8 @@
         "name": "优剧资源",
         "type": 0,
         "api": "https://zy.ujuba.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2525,8 +2525,8 @@
         "name": "小蜻蜓",
         "type": 1,
         "api": "http://3ketv.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2534,8 +2534,8 @@
         "name": "极品影视",
         "type": 0,
         "api": "https://www.jpysvip.net/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2543,8 +2543,8 @@
         "name": "资源采集",
         "type": 0,
         "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2552,8 +2552,8 @@
         "name": "核桃影视",
         "type": 0,
         "api": "http://app.hetaoys.vip/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2561,8 +2561,8 @@
         "name": "白熊影视",
         "type": 0,
         "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2570,8 +2570,8 @@
         "name": "阿里资源",
         "type": 0,
         "api": "http://www.feishi.ltd/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2579,8 +2579,8 @@
         "name": "人人资源",
         "type": 0,
         "api": "https://www.rrzyw.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2588,8 +2588,8 @@
         "name": "卧龙资源",
         "type": 0,
         "api": "https://www.wolongzyw.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2597,8 +2597,8 @@
         "name": "天天看",
         "type": 0,
         "api": "https://www.ttky8.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2606,8 +2606,8 @@
         "name": "迅雷下载",
         "type": 0,
         "api": "http://xunlei.fan/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2615,8 +2615,8 @@
         "name": "优全影视",
         "type": 0,
         "api": "https://xmyun.xyz/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2624,8 +2624,8 @@
         "name": "奇乐资源",
         "type": 0,
         "api": "https://zy.ujuba.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2633,8 +2633,8 @@
         "name": "无尽资源",
         "type": 0,
         "api": "https://wuzy9.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2642,8 +2642,8 @@
         "name": "新影资源",
         "type": 0,
         "api": "https://api.xinyingcaiji.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2651,8 +2651,8 @@
         "name": "快播资源",
         "type": 0,
         "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2660,8 +2660,8 @@
         "name": "麒麟资源",
         "type": 0,
         "api": "http://www.qilinzyz.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2669,8 +2669,8 @@
         "name": "无极影视",
         "type": 0,
         "api": "http://wujiys.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2678,8 +2678,8 @@
         "name": "百度采集",
         "type": 1,
         "api": "https://api.bdjx.vip/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2687,8 +2687,8 @@
         "name": "思古",
         "type": 1,
         "api": "https://www.siguyy.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2696,8 +2696,8 @@
         "name": "TVB云",
         "type": 0,
         "api": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2705,8 +2705,8 @@
         "name": "One影视",
         "type": 0,
         "api": "http://www.onedianshi.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2714,8 +2714,8 @@
         "name": "火星2048",
         "type": 0,
         "api": "https://www.hx2048.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2723,8 +2723,8 @@
         "name": "蓝果资源",
         "type": 0,
         "api": "http://www.languotv.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2732,8 +2732,8 @@
         "name": "爱看1080",
         "type": 0,
         "api": "http://www.ik1080.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2741,8 +2741,8 @@
         "name": "爱搜影视",
         "type": 0,
         "api": "https://www.yunbangcheng.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2750,8 +2750,8 @@
         "name": "韩剧资源",
         "type": 0,
         "api": "http://www.hanjuzy.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2759,8 +2759,8 @@
         "name": "乐奇异",
         "type": 0,
         "api": "https://www.lqiyi.co/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2768,8 +2768,8 @@
         "name": "穿梭资源",
         "type": 0,
         "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2777,8 +2777,8 @@
         "name": "玺娜影视",
         "type": 0,
         "api": "https://www.yuxidy.cn/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2786,8 +2786,8 @@
         "name": "乐活影视",
         "type": 0,
         "api": "https://lehootv.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2795,8 +2795,8 @@
         "name": "瓜皮",
         "type": 0,
         "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2804,8 +2804,8 @@
         "name": "迪加",
         "type": 0,
         "api": "http://www.dijiaxia.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2813,8 +2813,8 @@
         "name": "随便看",
         "type": 0,
         "api": "https://www.sbkdy.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2822,8 +2822,8 @@
         "name": "百搜资源",
         "type": 0,
         "api": "https://vip.baisou.ltd/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2831,8 +2831,8 @@
         "name": "09蓝光影视",
         "type": 0,
         "api": "https://09tv.top/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -2840,8 +2840,8 @@
         "name": "任我云资源",
         "type": 0,
         "api": "https://www.renwoyun.cn/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2849,8 +2849,8 @@
         "name": "lehoo资源",
         "type": 0,
         "api": "https://www.lehootv.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2858,8 +2858,8 @@
         "name": "365影视",
         "type": 0,
         "api": "http://video.365tx.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2867,8 +2867,8 @@
         "name": "灵智云",
         "type": 0,
         "api": "https://app.linzhiyuan.xyz/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2876,8 +2876,8 @@
         "name": "孤单影院",
         "type": 0,
         "api": "http://www.gudanys.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2885,8 +2885,8 @@
         "name": "爱看影视",
         "type": 0,
         "api": "http://tvcms.ikan6.vip/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2894,8 +2894,8 @@
         "name": "77电影",
         "type": 0,
         "api": "https://www.77diany.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2903,8 +2903,8 @@
         "name": "播放吧",
         "type": 0,
         "api": "https://www.bofangya.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2912,8 +2912,8 @@
         "name": "真不卡",
         "type": 0,
         "api": "http://db.taijuwang.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2921,8 +2921,8 @@
         "name": "清欢",
         "type": 1,
         "api": "https://www.qinghuanzy.cn/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2930,8 +2930,8 @@
         "name": "速搜资源",
         "type": 0,
         "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2939,8 +2939,8 @@
         "name": "飞鱼",
         "type": 0,
         "api": "https://app.feiyu5.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2948,8 +2948,8 @@
         "name": "蓝果app",
         "type": 0,
         "api": "http://www.languotv.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2957,8 +2957,8 @@
         "name": "迷你库",
         "type": 0,
         "api": "https://www.miniku.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2966,8 +2966,8 @@
         "name": "热播剧",
         "type": 1,
         "api": "http://app.reboju.net/api.php/provide/vod",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2975,8 +2975,8 @@
         "name": "不开资源",
         "type": 0,
         "api": "http://c.bukai.men/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2984,8 +2984,8 @@
         "name": "呆呆影视",
         "type": 1,
         "api": "http://tv.daidaitv.top:43800/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -2993,8 +2993,8 @@
         "name": "滴哩TV",
         "type": 1,
         "api": "http://api.diliktv.xyz/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3002,8 +3002,8 @@
         "name": "蜗牛呀资源",
         "type": 0,
         "api": "http://snailkya.xyz/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3011,8 +3011,8 @@
         "name": "畅视资源",
         "type": 1,
         "api": "http://app.reboju.net/api.php/provide/vod",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3020,8 +3020,8 @@
         "name": "3号港剧",
         "type": 0,
         "api": "https://www.hktv03.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3029,8 +3029,8 @@
         "name": "J8电影",
         "type": 0,
         "api": "https://www.j8dy.org/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3038,8 +3038,8 @@
         "name": "想看资源",
         "type": 1,
         "api": "https://m3u8.xiangkanapi.com/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3047,8 +3047,8 @@
         "name": "8k影视",
         "type": 0,
         "api": "http://vip.8kvod.com:888/8kvodapilgxc.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3056,8 +3056,8 @@
         "name": "免费在线",
         "type": 0,
         "api": "http://www.sp.ooo/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3065,8 +3065,8 @@
         "name": "融兴资源",
         "type": 1,
         "api": "https://www.rongxingvr.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3074,8 +3074,8 @@
         "name": "三九美剧",
         "type": 1,
         "api": "https://www.999meiju.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3083,8 +3083,8 @@
         "name": "趣看视频",
         "type": 0,
         "api": "http://qkmp4.cn/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3092,8 +3092,8 @@
         "name": "OmoFun动漫",
         "type": 0,
         "api": "https://www.omofun.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3101,8 +3101,8 @@
         "name": "免费影院",
         "type": 1,
         "api": "http://www.ruiuri.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3110,8 +3110,8 @@
         "name": "启灵资源",
         "type": 0,
         "api": "http://www.qilinzyz.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3119,8 +3119,8 @@
         "name": "欧宝资源",
         "type": 0,
         "api": "http://obaowl.cn/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3128,8 +3128,8 @@
         "name": "比邻影视",
         "type": 1,
         "api": "http://0hzy.cn:9990/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3137,8 +3137,8 @@
         "name": "快看影院",
         "type": 1,
         "api": "https://www.vp1127.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3146,8 +3146,8 @@
         "name": "555TV",
         "type": 0,
         "api": "http://w7tv.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3155,8 +3155,8 @@
         "name": "MBO影视",
         "type": 0,
         "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3164,8 +3164,8 @@
         "name": "热映资源",
         "type": 0,
         "api": "http://hl.reying.vip/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3173,8 +3173,8 @@
         "name": "348电影",
         "type": 0,
         "api": "https://348z.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3182,8 +3182,8 @@
         "name": "蜂鸟视频",
         "type": 0,
         "api": "https://v.fnsp0.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3191,8 +3191,8 @@
         "name": "艾特",
         "type": 0,
         "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3200,8 +3200,8 @@
         "name": "605资源",
         "type": 0,
         "api": "http://www.605zy.co/inc/api.php/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3209,8 +3209,8 @@
         "name": "唐人街TV",
         "type": 0,
         "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3218,8 +3218,8 @@
         "name": "kk看剧",
         "type": 0,
         "api": "http://www.kkkanju.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3227,8 +3227,8 @@
         "name": "百度云资源",
         "type": 1,
         "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3236,8 +3236,8 @@
         "name": "百度云采集",
         "type": 1,
         "api": "https://cj.apibdzy.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3245,8 +3245,8 @@
         "name": "剧好看",
         "type": 0,
         "api": "https://www.juhaokan.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3254,8 +3254,8 @@
         "name": "我爱跟剧",
         "type": 0,
         "api": "http://www.52gen.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3263,8 +3263,8 @@
         "name": "影派",
         "type": 0,
         "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3272,8 +3272,8 @@
         "name": "初心影视",
         "type": 0,
         "api": "https://18mv.club/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3281,8 +3281,8 @@
         "name": "YT影视",
         "type": 1,
         "api": "http://ytys.cc/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3290,8 +3290,8 @@
         "name": "w7tv",
         "type": 1,
         "api": "http://w7tv.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3299,8 +3299,8 @@
         "name": "电影牛",
         "type": 0,
         "api": "https://www.dianyingn.cc/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3308,8 +3308,8 @@
         "name": "泰剧迷",
         "type": 0,
         "api": "https://www.taijumi.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3317,8 +3317,8 @@
         "name": "乐多采集1",
         "type": 0,
         "api": "http://cj.leduocaiji.com/inc/seacmsapi.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3326,8 +3326,8 @@
         "name": "乐多采集2",
         "type": 0,
         "api": "https://cj.leduocaiji.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3335,8 +3335,8 @@
         "name": "乐多资源",
         "type": 0,
         "api": "http://api.leduosj.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3344,8 +3344,8 @@
         "name": "U酷资源",
         "type": 1,
         "api": "http://ukuzy.com/api.php/provide/vod?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3353,8 +3353,8 @@
         "name": "天堂资源",
         "type": 0,
         "api": "http://vipmv.cc/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3362,8 +3362,8 @@
         "name": "苗点蓝光",
         "type": 1,
         "api": "https://www.neenl.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3371,8 +3371,8 @@
         "name": "好好资源",
         "type": 0,
         "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3380,8 +3380,8 @@
         "name": "游艺资源",
         "type": 1,
         "api": "http://api01.hexh.ink/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3389,8 +3389,8 @@
         "name": "淘片资源",
         "type": 0,
         "api": "https://taopianzy.com/home/cjapi/as/vod/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3398,8 +3398,8 @@
         "name": "喵点影视",
         "type": 0,
         "api": "https://www.neenl.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3407,8 +3407,8 @@
         "name": "欧乐影院",
         "type": 0,
         "api": "https://www.olevod.tv/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3416,8 +3416,8 @@
         "name": "U猫",
         "type": 0,
         "api": "http://umao.ml/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3425,8 +3425,8 @@
         "name": "BL视频",
         "type": 0,
         "api": "https://bljiex.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3434,8 +3434,8 @@
         "name": "0号资源",
         "type": 0,
         "api": "http://api.000zy.com/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3443,8 +3443,8 @@
         "name": "搜狐会员",
         "type": 0,
         "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3452,8 +3452,8 @@
         "name": "优酷会员",
         "type": 0,
         "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3461,8 +3461,8 @@
         "name": "饭团影院",
         "type": 0,
         "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3470,8 +3470,8 @@
         "name": "1905",
         "type": 0,
         "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3479,8 +3479,8 @@
         "name": "17",
         "type": 0,
         "api": "http://zy.itono.cn/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3488,8 +3488,8 @@
         "name": "17腾讯",
         "type": 0,
         "api": "http://zy.itono.cn/inc/qq.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3497,8 +3497,8 @@
         "name": "17爱奇艺",
         "type": 0,
         "api": "http://zy.itono.cn/inc/qiyi.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3506,8 +3506,8 @@
         "name": "17搜狐",
         "type": 0,
         "api": "http://zy.itono.cn/inc/sohu.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3515,8 +3515,8 @@
         "name": "网民电影",
         "type": 0,
         "api": "https://www.prinevillesda.org/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3524,8 +3524,8 @@
         "name": "五一",
         "type": 0,
         "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3533,8 +3533,8 @@
         "name": "嗨哆咪影视",
         "type": 1,
         "api": "http://hdmys1.com/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3542,8 +3542,8 @@
         "name": "热映网",
         "type": 1,
         "api": "http://hl.reying.vip/api.php/provide/vod/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3551,8 +3551,8 @@
         "name": "零玖影视",
         "type": 0,
         "api": "https://09tv.top/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3560,8 +3560,8 @@
         "name": "虾米资源",
         "type": 0,
         "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3569,8 +3569,8 @@
         "name": "乐喵",
         "type": 0,
         "api": "https://98hyk.cn/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3578,8 +3578,8 @@
         "name": "私人",
         "type": 0,
         "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3587,8 +3587,8 @@
         "name": "侦探",
         "type": 0,
         "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3596,8 +3596,8 @@
         "name": "天空采集",
         "type": 0,
         "api": "https://caiji.tiankongapi.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3605,8 +3605,8 @@
         "name": "八戒采集",
         "type": 0,
         "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3614,8 +3614,8 @@
         "name": "北斗星",
         "type": 0,
         "api": "https://v8.bdxzyapi.com/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3623,8 +3623,8 @@
         "name": "8090",
         "type": 0,
         "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3632,8 +3632,8 @@
         "name": "1886",
         "type": 1,
         "api": "http://cj.1886zy.co/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3641,8 +3641,8 @@
         "name": "987",
         "type": 0,
         "api": "https://www.9875.xyz/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3650,8 +3650,8 @@
         "name": "88",
         "type": 0,
         "api": "http://www.88zy.live/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3659,8 +3659,8 @@
         "name": "飘花电影",
         "type": 0,
         "api": "http://www.zzrhgg.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3678,7 +3678,7 @@
         "type": 3,
         "api": "csp_Jumi",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -3687,7 +3687,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3696,7 +3696,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3705,7 +3705,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3714,7 +3714,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3723,7 +3723,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3732,7 +3732,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3741,7 +3741,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3750,7 +3750,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3759,7 +3759,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3768,7 +3768,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3777,7 +3777,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3786,7 +3786,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3795,7 +3795,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3804,7 +3804,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3813,7 +3813,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3822,7 +3822,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3831,7 +3831,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3840,7 +3840,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3849,7 +3849,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3858,7 +3858,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3867,7 +3867,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3876,7 +3876,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3885,7 +3885,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3894,7 +3894,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3903,7 +3903,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3912,7 +3912,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3921,7 +3921,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3930,7 +3930,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3939,7 +3939,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3948,7 +3948,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3957,7 +3957,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3966,7 +3966,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3975,7 +3975,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3984,7 +3984,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -3993,7 +3993,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4002,7 +4002,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4011,7 +4011,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4020,7 +4020,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4029,7 +4029,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4038,7 +4038,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4047,7 +4047,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4056,7 +4056,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4065,7 +4065,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4074,7 +4074,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4083,7 +4083,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4092,7 +4092,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4101,7 +4101,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4110,7 +4110,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4119,7 +4119,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4128,7 +4128,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4137,7 +4137,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4146,7 +4146,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4155,7 +4155,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4164,7 +4164,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4173,7 +4173,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4182,7 +4182,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4191,7 +4191,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4200,7 +4200,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4209,7 +4209,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4218,7 +4218,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4227,7 +4227,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4236,7 +4236,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4245,7 +4245,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4254,7 +4254,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4263,7 +4263,7 @@
         "type": 3,
         "api": "csp_Ysdq",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4272,7 +4272,7 @@
         "type": 2,
         "api": "7gxke5P9eFZoVV",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4280,8 +4280,8 @@
         "name": "极品影视",
         "type": 2,
         "api": "xZk2ejNzP8Gape",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4289,8 +4289,8 @@
         "name": "暮光影视",
         "type": 2,
         "api": "vnEF7qPNzi6C6C",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4298,8 +4298,8 @@
         "name": "影视工厂",
         "type": 2,
         "api": "XXjMEvL4jg66rQ",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4307,8 +4307,8 @@
         "name": "Auete影视",
         "type": 2,
         "api": "eboTY5qAokEemZ",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4316,8 +4316,8 @@
         "name": "爱迪影视",
         "type": 2,
         "api": "48YdXbyTkTe55r",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4325,8 +4325,8 @@
         "name": "HG影视",
         "type": 2,
         "api": "wkjskK5hA6Cxr7",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4334,8 +4334,8 @@
         "name": "追剧达人",
         "type": 2,
         "api": "irB66BwzwhbL4r",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4343,8 +4343,8 @@
         "name": "追剧喵",
         "type": 2,
         "api": "KaxKyHhd9ErA9n",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4352,8 +4352,8 @@
         "name": "新影视工厂",
         "type": 2,
         "api": "Gy35wr8J2YUrtC",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4361,8 +4361,8 @@
         "name": "恐怖鸭",
         "type": 2,
         "api": "ZdZYGB9BcfXR6W",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4370,8 +4370,8 @@
         "name": "喵派對藍光",
         "type": 0,
         "api": "https://www.neenl.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -4380,7 +4380,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4389,7 +4389,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4398,7 +4398,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4407,7 +4407,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4416,7 +4416,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4425,7 +4425,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4434,7 +4434,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4443,7 +4443,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4452,7 +4452,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4461,7 +4461,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4470,7 +4470,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4479,7 +4479,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4488,7 +4488,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4497,7 +4497,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4506,7 +4506,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4515,7 +4515,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4524,7 +4524,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4533,7 +4533,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4542,7 +4542,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4551,7 +4551,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4560,7 +4560,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4569,7 +4569,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4578,7 +4578,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4587,7 +4587,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4596,7 +4596,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4605,7 +4605,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4614,7 +4614,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4623,7 +4623,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4632,7 +4632,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4641,7 +4641,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4650,7 +4650,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4659,7 +4659,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4668,7 +4668,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4677,7 +4677,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4686,7 +4686,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4695,7 +4695,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4704,7 +4704,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4713,7 +4713,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4722,7 +4722,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4731,7 +4731,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4740,7 +4740,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4749,7 +4749,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4758,7 +4758,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4767,7 +4767,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4776,7 +4776,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4785,7 +4785,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4794,7 +4794,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4803,7 +4803,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4812,7 +4812,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4821,7 +4821,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4830,7 +4830,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4839,7 +4839,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4848,7 +4848,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4857,7 +4857,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4866,7 +4866,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4875,7 +4875,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4884,7 +4884,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4893,7 +4893,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4902,7 +4902,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4911,7 +4911,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4920,7 +4920,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4929,7 +4929,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4938,7 +4938,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4947,7 +4947,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4956,7 +4956,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4965,7 +4965,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4974,7 +4974,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4983,7 +4983,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -4992,7 +4992,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5001,7 +5001,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5010,7 +5010,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5019,7 +5019,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5028,7 +5028,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5037,7 +5037,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5046,7 +5046,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5055,7 +5055,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5064,7 +5064,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5073,7 +5073,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5082,7 +5082,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5091,7 +5091,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5100,7 +5100,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5109,7 +5109,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5118,7 +5118,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5127,7 +5127,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5136,7 +5136,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5145,7 +5145,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5154,7 +5154,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5163,7 +5163,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5172,7 +5172,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5181,7 +5181,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5190,7 +5190,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5199,7 +5199,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5208,7 +5208,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5217,7 +5217,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5226,7 +5226,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5235,7 +5235,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5244,7 +5244,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5253,7 +5253,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5262,7 +5262,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5271,7 +5271,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5280,7 +5280,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5289,7 +5289,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5298,7 +5298,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5307,7 +5307,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5316,7 +5316,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5325,7 +5325,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5334,7 +5334,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5343,7 +5343,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5352,7 +5352,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5361,7 +5361,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5370,7 +5370,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5379,7 +5379,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5388,7 +5388,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5397,7 +5397,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5406,7 +5406,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5415,7 +5415,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5424,7 +5424,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5433,7 +5433,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5442,7 +5442,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5451,7 +5451,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5460,7 +5460,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5469,7 +5469,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5478,7 +5478,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5487,7 +5487,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5496,7 +5496,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5505,7 +5505,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5514,7 +5514,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5523,7 +5523,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5532,7 +5532,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5541,7 +5541,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5550,7 +5550,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5559,7 +5559,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5568,7 +5568,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5577,7 +5577,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5586,7 +5586,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5595,7 +5595,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5604,7 +5604,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5613,7 +5613,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5622,7 +5622,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5631,7 +5631,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5640,7 +5640,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5649,7 +5649,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5658,7 +5658,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5667,7 +5667,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5676,7 +5676,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5685,7 +5685,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5694,7 +5694,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5703,7 +5703,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5712,7 +5712,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5721,7 +5721,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5730,7 +5730,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5739,7 +5739,7 @@
         "type": 3,
         "api": "csp_AppYs",
         "searchable": 1,
-        "quickSearch": 0,
+        "quickSearch": 1,
         "filterable": 1
       },
       {
@@ -5747,8 +5747,8 @@
         "name": "9875影视",
         "type": 1,
         "api": "https://www.9875.xyz/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5756,8 +5756,8 @@
         "name": "淘片优质直解",
         "type": 0,
         "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5765,8 +5765,8 @@
         "name": "U猫m3u8",
         "type": 0,
         "api": "http://umao.ml/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5774,8 +5774,8 @@
         "name": "2A资源",
         "type": 0,
         "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5783,8 +5783,8 @@
         "name": "饭团资源",
         "type": 0,
         "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5792,8 +5792,8 @@
         "name": "360资源",
         "type": 0,
         "api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5801,8 +5801,8 @@
         "name": "星辰资源",
         "type": 1,
         "api": "http://www.zycaiji.net:7788/api.php/provide/vod",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5810,8 +5810,8 @@
         "name": "1905资源",
         "type": 0,
         "api": "http://zy.yilans.net:8090/api.php/provide/vod/from/m1905/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5819,8 +5819,8 @@
         "name": "1717主流爬（4.4u）",
         "type": 0,
         "api": "http://zy.itono.cn/inc/api.php",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5828,8 +5828,8 @@
         "name": "M3U8.TV",
         "type": 0,
         "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5837,8 +5837,8 @@
         "name": "7K(虾米)资源",
         "type": 0,
         "api": "https://zy.xmflv.vip/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5846,8 +5846,8 @@
         "name": "乐喵资源",
         "type": 0,
         "api": "https://98hyk.cn/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5855,8 +5855,8 @@
         "name": "白嫖联盟",
         "type": 0,
         "api": "http://api.hszbj.net/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5864,8 +5864,8 @@
         "name": "私人地址（随时失效）",
         "type": 0,
         "api": "http://107.150.5.146:39000/maccms10-main/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5873,8 +5873,8 @@
         "name": "无极影院",
         "type": 0,
         "api": "http://wujiys.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5882,8 +5882,8 @@
         "name": "TVB资源",
         "type": 1,
         "api": "http://www.tvyb02.com/api.php/provide/vod",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5891,8 +5891,8 @@
         "name": "独播库",
         "type": 1,
         "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5900,8 +5900,8 @@
         "name": "北斗资源",
         "type": 1,
         "api": "https://m3u8.bdxzyapi.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5909,8 +5909,8 @@
         "name": "橘猫影视",
         "type": 0,
         "api": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5918,8 +5918,8 @@
         "name": "豆瓣云",
         "type": 1,
         "api": "http://api.dbyunzy.com/api.php/provide/vod/?ac=list",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5927,8 +5927,8 @@
         "name": "影派资源",
         "type": 0,
         "api": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       },
       {
@@ -5936,8 +5936,8 @@
         "name": "电牛资源",
         "type": 0,
         "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
-        "searchable": 0,
-        "quickSearch": 0,
+        "searchable": 1,
+        "quickSearch": 1,
         "filterable": 0
       }
     ],
