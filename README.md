@@ -2,10 +2,10 @@ Pdone's Static Resources
 
 ## Usage
 
-	https://cdn.jsdelivr.net/gh/pdone/static/*.*
+	https://fastly.jsdelivr.net/gh/pdone/static/*.*
 or
 
-	https://cdn.jsdelivr.net/gh/pdone/static@latest/*.*
+	https://fastly.jsdelivr.net/gh/pdone/static@latest/*.*
 ## Thanks
 [Github](https://github.com/)
 

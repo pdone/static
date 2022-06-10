@@ -44,7 +44,7 @@ video {
 }
 
 body {
-    background: #E9E9E9 url(https://cdn.jsdelivr.net/gh/pdone/static@master/img/bg.jpg);
+    background: #E9E9E9 url(https://fastly.jsdelivr.net/gh/pdone/static@master/img/bg.jpg);
     /* animation: flow 16s linear infinite; */
     top: 0;
     left: 0;

@@ -18,13 +18,13 @@
 }
 @font-face {
   font-family: 'UbuntuMono';
-  src: url("https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf");
+  src: url("https://fastly.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf");
   font-weight: 'normal';
   font-style: 'normal';
 }
 @font-face {
   font-family: 'Varela Round';
-  src: url("https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf");
+  src: url("https://fastly.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf");
   font-weight: 'normal';
   font-style: 'normal';
 }
@@ -1051,7 +1051,7 @@ details[open] >div.content > details:last-child {
   margin-bottom: 20px;
 }
 .md .frame-wrap#iphone11 .frame {
-  background-image: url("https://cdn.jsdelivr.net/gh/volantis-x/cdn-volantis@3/img/frame/iphone11.svg");
+  background-image: url("https://fastly.jsdelivr.net/gh/volantis-x/cdn-volantis@3/img/frame/iphone11.svg");
   width: 329px;
   height: 658px;
 }
@@ -8024,7 +8024,7 @@ ul.list-v.rightmenu li.music a.nav.volume .aplayer-volume-bar .aplayer-volume {
   margin: 1.5rem auto;
 }
 html {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 p,
 input,
@@ -8033,94 +8033,94 @@ pre > span {
   cursor: url(""), text;
 }
 a {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 a:not([href]) {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 a:not([href]) p {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 button,
 html input[type="button"],
 input[type="reset"],
 input[type="submit"] {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 button[disabled],
 html input[disabled] {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 table::-webkit-scrollbar-thumb {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 scrollbar::-webkit-scrollbar-thumb {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 .article .widget {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 .cover-wrapper .cover .scroll-down {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 .l_body .post section.meta .new-meta-box .new-meta-item .notlink {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 ul.list-v.rightmenu a {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 ul.list-v.rightmenu li.music a.nav.volume .aplayer-volume-bar {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 #u-search .modal .modal-header .btn-close {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 #u-search .modal .modal-footer .nav {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 span.btn >a:not([href]):hover {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/unavailiable.cur"), not-allowed;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/unavailiable.cur"), not-allowed;
 }
 span.btn a:not([href]) {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 article .checkbox input {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 details summary {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 .article a.link-card {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 div.tabs ul.nav-tabs li.tab a {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 div.tabs ul.nav-tabs li.tab.active a {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 .btn-copy {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 .fancybox-container .fancybox-stage {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), zoom-out;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), zoom-out;
 }
 .fancybox a {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), zoom-in;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), zoom-in;
 }
 .l_main #comments #valine_container .vcards .vhead span.vnick {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default;
 }
 .fancybox-can-zoomIn .fancybox-content {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), zoom-in;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), zoom-in;
 }
 .fancybox-can-pan .fancybox-content,
 .fancybox-can-swipe .fancybox-content {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/move.cur"), grab;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/move.cur"), grab;
 }
 .waves-effect,
 a.result.search-result-fix {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer;
 }
 kbd,
 .a > p,
@@ -8128,7 +8128,7 @@ kbd,
 .not-select p,
 .MiniValine *,
 .aplayer .aplayer-info .aplayer-music {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default !important;
 }
 .tag > p,
 .prev > p,
@@ -8162,38 +8162,38 @@ kbd,
 .MiniValine .vinputs-area .btn-wrap .vfunction-btn svg,
 .MiniValine .vinputs-area .vextra-area .vsmile-icons img,
 .MiniValine .vlist .vcard .vcomment-body .text-wrapper .vcomment a {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
 }
 .fancybox-button[disabled],
 .fancybox-button[disabled]:hover {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/unavailiable.cur"), not-allowed !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/unavailiable.cur"), not-allowed !important;
 }
 .fix-cursor-pointer {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
 }
 .fix-cursor-default {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default !important;
 }
 .gt-container a.is--active {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/pointer.cur"), default !important;
 }
 .gt-container .gt-avatar-github {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
 }
 .gt-container .gt-btn {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
 }
 .gt-container .gt-btn.is--disable {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/unavailiable.cur"), not-allowed !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/unavailiable.cur"), not-allowed !important;
 }
 .gt-container .gt-user-inner {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
 }
 .gt-container .gt-popup .gt-action {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
 }
 .gt-container .gt-comment-like:hover,
 .gt-container .gt-comment-edit:hover,
 .gt-container .gt-comment-reply:hover {
-  cursor: url("//cdn.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
+  cursor: url("//fastly.jsdelivr.net/gh/pdone/static/img/cursor/link.cur"), pointer !important;
 }
