@@ -1,13 +1,11 @@
 Pdone's Static Resources
 
 ## Usage
-
-	https://fastly.jsdelivr.net/gh/pdone/static/*.*
-or
-
-	https://fastly.jsdelivr.net/gh/pdone/static@latest/*.*
+```
+https://ghproxy.com/https://raw.githubusercontent.com/pdone/static/master/*
+```
 ## Thanks
 [Github](https://github.com/)
 
-[jsDelivr](https://www.jsdelivr.com/)
+[GitHub Proxy](https://ghproxy.com/)
 
