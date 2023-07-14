@@ -1,11 +1,11 @@
 input,p,pre>span,textarea {
-    cursor: url(https://github.com/pdone/static/tree/master/img/cursor/text.png),text
+    cursor: url(https://ghproxy.com/https://github.com/pdone/static/blob/master/img/cursor/text.cur),text
 }
 
 #l_body .post section.meta .new-meta-box .new-meta-item .notlink,.a>p,.aplayer .aplayer-info .aplayer-music,.article .widget,.embed-show,.fix-cursor-default,.gt-container a.is--active,.iframe,.iziToast,.iziToast p,.not-select,.not-select p,a:not([href]),a:not([href]) p,button[disabled],div.tabs ul.nav-tabs li.tab.active a,html,html input[disabled],kbd,p>img,p>svg,span.btn a:not([href]),ul.list-v.rightmenu a {
-    cursor: url(https://github.com/pdone/static/tree/master/img/cursor/pointer.png),default
+    cursor: url(https://ghproxy.com/https://github.com/pdone/static/blob/master/img/cursor/pointer.cur),default
 }
 
 #scroll-down,#u-search .modal .modal-footer .nav,#u-search .modal .modal-header .btn-close,.aplayer .aplayer-info .aplayer-controller .aplayer-bar-wrap,.aplayer .aplayer-info .aplayer-controller .aplayer-time .aplayer-icon,.aplayer .aplayer-list ol li,.aplayer .aplayer-list ol li .aplayer-list-author,.aplayer .aplayer-list ol li .aplayer-list-index,.aplayer .aplayer-pic,.article a.link-card,.author>p,.btn-copy,.category>a>p,.fancybox,.fancybox-button,.fancybox-can-pan .fancybox-content,.fancybox-can-swipe .fancybox-content,.fix-cursor-pointer,.friend-right p,.gt-container .gt-avatar-github,.gt-container .gt-btn,.gt-container .gt-comment-edit:hover,.gt-container .gt-comment-like:hover,.gt-container .gt-comment-reply:hover,.gt-container .gt-popup .gt-action,.gt-container .gt-user-inner,.list-h>a>p,.next>p,.prev>p,.tag>p,.tk-action-icon,.tk-avatar img,.tk-icon,.tk-meta a,.v[data-class=v] .vbtn,.v[data-class=v] .vcards .vcard .vcontent.expand,.v[data-class=v] .vcards .vcard .vh .vmeta .vat,.v[data-class=v] .vcards .vcard .vhead .vnick,.v[data-class=v] .vicon,.v[data-class=v] .vwrap .vemojis i,.v[data-class=v] a,.waves-button,.waves-button-input,.waves-button:hover,.waves-button:visited,.waves-effect,a,a.result.search-result-fix,article .checkbox input,button,details summary,div.tabs ul.nav-tabs li.tab a,html input[type=button],input[type=reset],input[type=submit],psw,scrollbar::-webkit-scrollbar-thumb,table::-webkit-scrollbar-thumb,ul.list-v.rightmenu li.music a.nav.volume .aplayer-volume-bar {
-    cursor: url(https://github.com/pdone/static/tree/master/img/cursor/link.png),pointer
+    cursor: url(https://ghproxy.com/https://github.com/pdone/static/blob/master/img/cursor/link.cur),pointer
 }
